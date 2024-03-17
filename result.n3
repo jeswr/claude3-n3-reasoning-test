@@ -1,0 +1,7 @@
+  @prefix : <http://eyereasoner.github.io/eye/reasoning/h2o#> .
+  
+  :traveler1     :location  (
+  51.0535
+  3.7304 ) .
+  
+  
